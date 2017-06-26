@@ -6,3 +6,4 @@ str,This datatype holds string values. Empty strings are considered null.,str,
 date,An ISO 8601 date/time stamp,date,
 gender,"A subjects gender, in most data by legal definition",str,genders
 marital_status,A subjects marital status,str,marital_statuses
+year,A (proleptic) gregorian year,int,
