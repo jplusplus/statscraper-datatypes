@@ -4,6 +4,7 @@
 "bool","This datatype holds boolean values","bool",
 "str","This datatype holds string values. Empty strings are considered null.","str",
 "date","An ISO 8601 date/time stamp","date",
+"quarter","A quarter of a gregorian calendar year","str","periods/quarters"
 "gender","A subjects gender, in most data by legal definition","str","genders"
 "marital_status","A subjects marital status","str","marital_statuses"
 "year","A (proleptic) gregorian year","int",
