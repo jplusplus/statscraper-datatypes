@@ -12,4 +12,4 @@
 "academic_term","An academic term, e.g. a semester, trimester, etc","str","periods/academic-terms"
 "region","An administrative territorial region.","str","regions"
 "week","A ISO 8601 week number, week starting on Monday, first week of the year has at least four days","int",
-"currency","Currencies, following ISO 4217 where possible","str","misc/currencies"
+"currency","Currencies, following ISO 4217 where possible","str","currencies"
